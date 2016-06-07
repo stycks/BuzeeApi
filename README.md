@@ -1,0 +1,2 @@
+# BuzeeApi
+Buzee server
